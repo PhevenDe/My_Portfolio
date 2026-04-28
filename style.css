@@ -61,12 +61,12 @@ h1, h2, h3, h4 {
 }
 
 .logo {
-    font-family: 'Outfit', sans-serif;
-    font-weight: 800;
-    font-size: 1.5rem;
+    font-family: 'Pacifico', cursive;
+    font-weight: 400;
+    font-size: 1.8rem;
     color: var(--text-primary);
     text-decoration: none;
-    letter-spacing: -1px;
+    letter-spacing: 1px;
 }
 
 .nav-links {
